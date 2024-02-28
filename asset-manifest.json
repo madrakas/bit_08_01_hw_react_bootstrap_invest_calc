@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bit_08_01_hw_react_bootstrap_invest_calc%20/static/css/main.367c18cd.css",
-    "main.js": "/bit_08_01_hw_react_bootstrap_invest_calc%20/static/js/main.37e7dbb3.js",
-    "static/media/logo.png": "/bit_08_01_hw_react_bootstrap_invest_calc%20/static/media/logo.c20da4d5b23f8d49ad00.png",
-    "index.html": "/bit_08_01_hw_react_bootstrap_invest_calc%20/index.html",
-    "main.367c18cd.css.map": "/bit_08_01_hw_react_bootstrap_invest_calc%20/static/css/main.367c18cd.css.map",
-    "main.37e7dbb3.js.map": "/bit_08_01_hw_react_bootstrap_invest_calc%20/static/js/main.37e7dbb3.js.map"
+    "main.css": "/bit_08_01_hw_react_bootstrap_invest_calc/static/css/main.367c18cd.css",
+    "main.js": "/bit_08_01_hw_react_bootstrap_invest_calc/static/js/main.c3488d73.js",
+    "static/media/logo.png": "/bit_08_01_hw_react_bootstrap_invest_calc/static/media/logo.c20da4d5b23f8d49ad00.png",
+    "index.html": "/bit_08_01_hw_react_bootstrap_invest_calc/index.html",
+    "main.367c18cd.css.map": "/bit_08_01_hw_react_bootstrap_invest_calc/static/css/main.367c18cd.css.map",
+    "main.c3488d73.js.map": "/bit_08_01_hw_react_bootstrap_invest_calc/static/js/main.c3488d73.js.map"
   },
   "entrypoints": [
     "static/css/main.367c18cd.css",
-    "static/js/main.37e7dbb3.js"
+    "static/js/main.c3488d73.js"
   ]
 }
